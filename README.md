@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [underDevelopment](underDevelopment)
+- 👨‍💻 All of my projects are available at [Portfolio](https://saad-zireeni-portfolio.netlify.app/)
 
 - 💬 Ask me about **react, node, express**
 
